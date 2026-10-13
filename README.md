@@ -15,7 +15,7 @@ Today I work through my own consultancy, **Carihu**, building AWS platforms and 
 | [concurrency-postgres-node-go](https://github.com/carloslimaborges/concurrency-postgres-node-go) | The same banking service written twice, once with `SELECT ... FOR UPDATE` transactions and once without, plus load testers in Go, k6 and Locust so you can watch the naive version lose money under concurrency. |
 | [capacitor-native-barcode-scanner](https://github.com/carloslimaborges/capacitor-native-barcode-scanner) | A Capacitor plugin I wrote to reach the native camera on both platforms: AVFoundation on iOS, CameraX + ML Kit on Android. Built because no published plugin handled the formats we needed. |
 | [wondel-auto-router](https://github.com/carloslimaborges/wondel-auto-router) | An agent meta-skill that routes a task to the right engineering framework without being asked, with frontmatter validation running in CI. MIT. |
-| [didactic-bassoon](https://github.com/carloslimaborges/didactic-bassoon) | An LLM pipeline over Brazilian tax documents: natural-language querying, CFOP and NCM aware analysis, inconsistency detection over CSV exports. |
+| [ai-fiscal-analysis](https://github.com/carloslimaborges/ai-fiscal-analysis) | An agent that answers questions about Brazilian invoice data by computing with pandas over the whole dataset, rather than reasoning over a sample of rows pasted into a prompt. |
 
 ### About what is public here
 
