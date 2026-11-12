@@ -4,9 +4,9 @@ Senior backend engineer. I work on systems where mistakes are expensive: payment
 
 Nine of my years went into building and keeping alive the first mobile platform of a Brazilian federal institution, in continuous production since 2017 through four framework generations and a native platform migration. Close to three of them were also spent inside a regulated iGaming platform, on the AML/CFT and fraud side. Before I wrote production code I spent seven years in IT operations, and being the person who got called when systems broke still shapes how I design them.
 
-Today I work through my own consultancy, **Carihu**, building AWS platforms and production LLM pipelines for clients, remotely across US, EU and LatAm time zones.
+Today I work through my own consultancy, **Carihu**, building production LLM pipelines and full-stack platforms for regulated clients, remotely across US, EU and LatAm time zones.
 
-**Day to day:** Node.js · TypeScript · Java · Spring Boot · PostgreSQL · Kafka · Redis · AWS · Terraform · Docker · Python · Angular / Ionic
+**Day to day:** Node.js · TypeScript · Java · Spring Boot · PostgreSQL · AWS · Docker · Python · Angular / Ionic · React
 
 ### Repositories worth opening
 
@@ -20,6 +20,10 @@ Today I work through my own consultancy, **Carihu**, building AWS platforms and 
 ### About what is public here
 
 Most of what I build belongs to clients and lives in private repositories. What is public is a mix of tooling, experiments and course work, kept around because deleting history is worse than admitting it. The four repositories above are the ones that show how I work.
+
+The most recent example is a course-sales platform I built in five days, where every page is rendered server-side with an invisible watermark that traces a leaked screenshot back to the buyer. It stays private because publishing the scheme would defeat it.
+
+Upstream: two merged pull requests in [Eris](https://github.com/abalabahaha/eris) ([#1328](https://github.com/abalabahaha/eris/pull/1328), [#1181](https://github.com/abalabahaha/eris/pull/1181)) and a [CameraX bug report](https://github.com/ionic-team/capacitor-barcode-scanner/issues/147) on ionic-team/capacitor-barcode-scanner.
 
 ### Elsewhere
 
